@@ -1,7 +1,11 @@
 [project]
-name = "dbm"
+name = "SurveyUtilities"
 version = "0.1.0"
-description = "Add your description here"
+description = "Command line utilities for surveying calculations"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
+
+[[project.authors]]
+name = "Covert Nelson"
+email = "sirveyor226@gmail.com"
